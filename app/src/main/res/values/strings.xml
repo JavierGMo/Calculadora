@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="buttonHola">saluda</string>
+    <string name="buttonNumber7">7</string>
+    <string name="btnOcho">8</string>
+    <string name="btnNueve">9</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnUno">1</string>
+    <string name="btnDos">2</string>
+    <string name="btn3">3</string>
+    <string name="btnCuatro">4</string>
+    <string name="btnCero">0</string>
+    <string name="btnClear">C</string>
+    <string name="btnOperacion">!</string>
+</resources>
